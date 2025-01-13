@@ -1,4 +1,4 @@
-# Advent-of-Code
+# Advent of Code
 Here I document my submissions to Advent of Code. Comments have been added after submission to improve clarity (including the time and rank) but the code itself remains the original written prior to submission. All solutions are written in Python 3.
 
 ## File Structure
